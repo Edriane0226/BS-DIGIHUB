@@ -1,5 +1,7 @@
 # Set Up
 
+Rename Project Folder to DigiHub
+
 # Composer
 Composer Install
 
