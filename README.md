@@ -5,22 +5,19 @@ Rename Project Folder to DigiHub
 # Composer
 Composer Install
 
-# Mailer
-composer require phpmailer/phpmailer
-
 ## .env
 
 .env In Submission
 
+Add the .env file in project root
 check app.BaseUrl and Database Settings
-
 
 
 ## Database Setup
 
 MySQL
 
-create database digihub
+Create database "digihub" in mysql command line client or phpmyadmin or workbench
 
 In Project Folder Terminal use Commands
 
